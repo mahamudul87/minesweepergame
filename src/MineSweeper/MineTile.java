@@ -5,11 +5,7 @@
  */
 package MineSweeper;
 
-/**
- * @author ianw The refactored representation of a tile in the minefield. Note
- * that we use the unlisted no argument constructor, since we initialise all
- * fields st declaration.
- */
+
 public class MineTile {
 
     private boolean marked = false;
