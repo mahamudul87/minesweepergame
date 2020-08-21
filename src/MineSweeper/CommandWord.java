@@ -6,7 +6,7 @@
 package MineSweeper;
 
 /**
- * @author ianw
+ * 
  * A simple enumeration to represent the possible commands that can be given to the 
  * minesweeper game.  Note that the enumeration words all start with different characters.
  */
