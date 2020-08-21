@@ -3,7 +3,7 @@ package MineSweeper;
 import java.util.Scanner;
 
 /**
- * @author ianw
+ *
  *
  * A very simple input line parser that parses each line written by the user to
  * the console. To use, create an object of this type, and then repeatedly call
